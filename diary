@@ -1,1 +1,24 @@
-
+day 1
+tried to use the template and start to make my idea to work somehow
+day 2
+Scraped everything because i got lost in the code, so i started to make everything form 0 ( it's gonna be a pain)
+day 3
+try to make the building generation and drawing function so the buildings looks natural 
+day 4 
+with some test images i tried to draw the monkeys on the correct building, somehow worked out, also I think I'M gonna hate the drawImage function
+day5 
+tried to make the input to use WASD to make somehow a control but every time i updated the site the monkeys images went upside down and idn't know why 
+day 6
+I found a way to make the input into mouse insted of WASD so i tried to implemant it somehow it's working now but the images still go upside down.
+day7 
+no progress i got sick 
+day 8 
+tired to make blast holes on the building,for some reason the whole function worked in full invert, where the blasthole was located the building was drawn inside. so i think i scrap the idea can't find the problem even with help
+day 9
+fixed the bug with the monkeys draw function and i drawn the first prototype for the monke image, also now i tried the same code that i craped yesterday now it's working :)
+day 10
+draw the monkeys and the chair, also implementing animation for the chairs while it's flying 
+day 11 
+fixing some loading bugs and trying to draw windows/light on the building so it's looks more nicer
+day 12
+drawing the background, made the start screen, end screen, and also the presentation 
